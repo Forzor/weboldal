@@ -1,0 +1,12 @@
+<div class="gallery">
+<a href="https://lh3.googleusercontent.com/d/1D8G9e2o5zBZkd-zgtBn4TfBq22TIrLjh" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1D8G9e2o5zBZkd-zgtBn4TfBq22TIrLjh"></a>
+<a href="https://lh3.googleusercontent.com/d/1yeUX9DNKILyZdhuUCJP6viI9QuEtj6gC" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1yeUX9DNKILyZdhuUCJP6viI9QuEtj6gC"></a>
+<a href="https://lh3.googleusercontent.com/d/1aUunMXttIc2pO2Z-ELCx8NMZGd-p3lrT" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1aUunMXttIc2pO2Z-ELCx8NMZGd-p3lrT"></a>
+<a href="https://lh3.googleusercontent.com/d/1YljgzHD5WKHnz5h0I1MSjPgroZjzV6hP" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1YljgzHD5WKHnz5h0I1MSjPgroZjzV6hP"></a>
+<a href="https://lh3.googleusercontent.com/d/1syJ0iZDXf09T9MjyvWgtswn0-f3Q5h-y" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1syJ0iZDXf09T9MjyvWgtswn0-f3Q5h-y"></a>
+<a href="https://lh3.googleusercontent.com/d/1xqLPcqiBO0RB12MAcOmA95GuKQvOcjeD" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1xqLPcqiBO0RB12MAcOmA95GuKQvOcjeD"></a>
+<a href="https://lh3.googleusercontent.com/d/1pioLPv4mDBrBdx-quPXq09Ir_UHxN5mI" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1pioLPv4mDBrBdx-quPXq09Ir_UHxN5mI"></a>
+<a href="https://lh3.googleusercontent.com/d/11pqbPV3s-KjJi5uTW1zyyvsb2tyWuqOT" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/11pqbPV3s-KjJi5uTW1zyyvsb2tyWuqOT"></a>
+<a href="https://lh3.googleusercontent.com/d/1ZEv-jjPFhNnzu_Zjoz8IgkeQSiCINpZE" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1ZEv-jjPFhNnzu_Zjoz8IgkeQSiCINpZE"></a>
+<a href="https://lh3.googleusercontent.com/d/1eoj0DkzD7FmbPK5aXN0SsK30wk7R8z6G" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1eoj0DkzD7FmbPK5aXN0SsK30wk7R8z6G"></a>
+</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
