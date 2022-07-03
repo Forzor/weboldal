@@ -1,0 +1,10 @@
+<div class="gallery">
+<a href="https://lh3.googleusercontent.com/d/1CnLGgMj-8wwdhBUuYXSdwyVpF9-MasZq" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1CnLGgMj-8wwdhBUuYXSdwyVpF9-MasZq"></a>
+<a href="https://lh3.googleusercontent.com/d/1PVIIQy_C5711MIcvnkq99-CiaMG7W-J7" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1PVIIQy_C5711MIcvnkq99-CiaMG7W-J7"></a>
+<a href="https://lh3.googleusercontent.com/d/1mopooXzlGzpMWK3S7yzBZa--PxIxHdVl" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1mopooXzlGzpMWK3S7yzBZa--PxIxHdVl"></a>
+<a href="https://lh3.googleusercontent.com/d/1FLmDqGVtuH7ktikzTb68BHWOlIxHqucl" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1FLmDqGVtuH7ktikzTb68BHWOlIxHqucl"></a>
+<a href="https://lh3.googleusercontent.com/d/1Nhb-r_n5cc1ZQ8hSL62EJ_DeimDbX411" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1Nhb-r_n5cc1ZQ8hSL62EJ_DeimDbX411"></a>
+<a href="https://lh3.googleusercontent.com/d/1cvZQDFhW4lXbePWwM8iLr1hkomw7fyFm" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1cvZQDFhW4lXbePWwM8iLr1hkomw7fyFm"></a>
+<a href="https://lh3.googleusercontent.com/d/1JxL974MNGS2RMeI87amP5kMQF1kis0Wk" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1JxL974MNGS2RMeI87amP5kMQF1kis0Wk"></a>
+<a href="https://lh3.googleusercontent.com/d/1agDUkDCT00pRjuCT8QI904t4tjM2DDL0" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1agDUkDCT00pRjuCT8QI904t4tjM2DDL0"></a>
+</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
