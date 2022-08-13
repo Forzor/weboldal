@@ -1,0 +1,7 @@
+<div class="gallery">
+<a href="https://lh3.googleusercontent.com/d/1qbQIQH_Q3gGwGNwEnfrMhtJ8GfLVm1S2" data-lightbox="animal"><img src="https://lh3.googleusercontent.com/d/1qbQIQH_Q3gGwGNwEnfrMhtJ8GfLVm1S2"></a>
+<a href="https://lh3.googleusercontent.com/d/1LuJbRugpZvaaNK3gv1ISP1k8bnuxXEmI" data-lightbox="animal"><img src="https://lh3.googleusercontent.com/d/1LuJbRugpZvaaNK3gv1ISP1k8bnuxXEmI"></a>
+<a href="https://lh3.googleusercontent.com/d/1zhzigPgf-pMplZ4MjwinbRSz3xbDZySb" data-lightbox="animal"><img src="https://lh3.googleusercontent.com/d/1zhzigPgf-pMplZ4MjwinbRSz3xbDZySb"></a>
+<a href="https://lh3.googleusercontent.com/d/1i7QeJa9zDWWv7bePFHGKQoLC-Mr8NMOc" data-lightbox="animal"><img src="https://lh3.googleusercontent.com/d/1i7QeJa9zDWWv7bePFHGKQoLC-Mr8NMOc"></a>
+<a href="https://lh3.googleusercontent.com/d/18-8PXHFnNJf6MamSopwHmru7bNTPoDhn" data-lightbox="animal"><img src="https://lh3.googleusercontent.com/d/18-8PXHFnNJf6MamSopwHmru7bNTPoDhn"></a>
+</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
