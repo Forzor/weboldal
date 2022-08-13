@@ -1,0 +1,15 @@
+<div class="gallery">
+<a href="https://lh3.googleusercontent.com/d/13B5TuCWTupDgqJCf6p6b1h6yCFjSz0n1" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/13B5TuCWTupDgqJCf6p6b1h6yCFjSz0n1"></a>
+<a href="https://lh3.googleusercontent.com/d/134P0PDtY6ymQ58nHviIDZvv60ERdfKju" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/134P0PDtY6ymQ58nHviIDZvv60ERdfKju"></a>
+<a href="https://lh3.googleusercontent.com/d/1u67oXuYLtfRBvS4m_Ewn8qXkbRiiT8xl" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/1u67oXuYLtfRBvS4m_Ewn8qXkbRiiT8xl"></a>
+<a href="https://lh3.googleusercontent.com/d/1qj3iIW6lycbT5JChtNG8JV_cxK0s_2WC" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/1qj3iIW6lycbT5JChtNG8JV_cxK0s_2WC"></a>
+<a href="https://lh3.googleusercontent.com/d/1JPkFSR5Yotix2JajTumdKRiM6qGwNjnE" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/1JPkFSR5Yotix2JajTumdKRiM6qGwNjnE"></a>
+<a href="https://lh3.googleusercontent.com/d/13pd_LBvg0325aDHjIEbjakceRlWRO7ny" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/13pd_LBvg0325aDHjIEbjakceRlWRO7ny"></a>
+<a href="https://lh3.googleusercontent.com/d/1htJGuNSb6G922LWbM3V8qLerEK6EnIMP" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/1htJGuNSb6G922LWbM3V8qLerEK6EnIMP"></a>
+<a href="https://lh3.googleusercontent.com/d/1gmJUhHjFK-JWnhTFaWd1VkC0ZcyBFklP" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/1gmJUhHjFK-JWnhTFaWd1VkC0ZcyBFklP"></a>
+<a href="https://lh3.googleusercontent.com/d/1iVTv9EBkLnfyU6brtiUKFaqMVJW28faL" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/1iVTv9EBkLnfyU6brtiUKFaqMVJW28faL"></a>
+<a href="https://lh3.googleusercontent.com/d/109_vjBf2VoEMvasP2XuPneXYLgbylFB3" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/109_vjBf2VoEMvasP2XuPneXYLgbylFB3"></a>
+<a href="https://lh3.googleusercontent.com/d/1mfZ0he-qLIzaXzAZ5aFzWIDL38sZZa2P" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/1mfZ0he-qLIzaXzAZ5aFzWIDL38sZZa2P"></a>
+<a href="https://lh3.googleusercontent.com/d/1mVSaV9QOYG0SEe1MTo8--67sH0Lz_sGm" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/1mVSaV9QOYG0SEe1MTo8--67sH0Lz_sGm"></a>
+<a href="https://lh3.googleusercontent.com/d/1T7WJMwTW6s9ZLKPE27mPOI-628qJ17EF" data-lightbox="event"><img src="https://lh3.googleusercontent.com/d/1T7WJMwTW6s9ZLKPE27mPOI-628qJ17EF"></a>
+</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
