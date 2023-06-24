@@ -20,4 +20,4 @@
 <a href="https://lh3.googleusercontent.com/d/1AUkOOdFn7unj2OvJq7XHBBfDBbIBe-5g" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/1AUkOOdFn7unj2OvJq7XHBBfDBbIBe-5g"></a>
 <a href="https://lh3.googleusercontent.com/d/14B1ckEAFw3NLyjw_M8JTLKPmLPYBpLj1" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/14B1ckEAFw3NLyjw_M8JTLKPmLPYBpLj1"></a>
 <a href="https://lh3.googleusercontent.com/d/17xVEC3kJ4kmDhKXqdhs1u6yANMmoupjv" data-lightbox="2013"><img src="https://lh3.googleusercontent.com/d/17xVEC3kJ4kmDhKXqdhs1u6yANMmoupjv"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) {body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}}</style>
