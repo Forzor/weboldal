@@ -133,4 +133,4 @@
 <a href="https://lh3.googleusercontent.com/d/1_wDQ6MG_AjXY-xEE69qgEviuLMyPhWVO" data-lightbox="2011"><img src="https://lh3.googleusercontent.com/d/1_wDQ6MG_AjXY-xEE69qgEviuLMyPhWVO"></a>
 <a href="https://lh3.googleusercontent.com/d/1bJI6ytaDxhIuBUtkvCa8e3PuNb7vNond" data-lightbox="2011"><img src="https://lh3.googleusercontent.com/d/1bJI6ytaDxhIuBUtkvCa8e3PuNb7vNond"></a>
 <a href="https://lh3.googleusercontent.com/d/1D8v6gSMAoHMFzVGE7S65hbx-bC6cZH7_" data-lightbox="2011"><img src="https://lh3.googleusercontent.com/d/1D8v6gSMAoHMFzVGE7S65hbx-bC6cZH7_"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) {body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}}</style>
