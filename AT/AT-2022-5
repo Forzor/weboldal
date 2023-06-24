@@ -104,5 +104,5 @@
 <a href="https://lh3.googleusercontent.com/d/15mDAyjyJFditm08oWbfkwFFPYjrO6HnV" data-lightbox="2022"><img src="https://lh3.googleusercontent.com/d/15mDAyjyJFditm08oWbfkwFFPYjrO6HnV"></a>
 <a href="https://lh3.googleusercontent.com/d/1_HU4ZBsBAoyyk_KoCLoO6-UtRyBySPSS" data-lightbox="2022"><img src="https://lh3.googleusercontent.com/d/1_HU4ZBsBAoyyk_KoCLoO6-UtRyBySPSS"></a>
 <a href="https://lh3.googleusercontent.com/d/1iZ9fAk5xIkkkaa-P-vuLzBtxAkNh0tJM" data-lightbox="2022"><img src="https://lh3.googleusercontent.com/d/1iZ9fAk5xIkkkaa-P-vuLzBtxAkNh0tJM"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1); @media screen and (max-width: 768px) {gallery a{pointer-events: none;} }}
+</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1); }@media screen and (max-width: 768px) {gallery a{pointer-events: none;} }
 </style>
