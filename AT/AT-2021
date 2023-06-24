@@ -73,4 +73,4 @@
 <a href="https://lh3.googleusercontent.com/d/1_9NCgTOpFTTXJPZU5b-fwHTUtLIt8fjB" data-lightbox="2019"><img src="https://lh3.googleusercontent.com/d/1_9NCgTOpFTTXJPZU5b-fwHTUtLIt8fjB"></a>
 <a href="https://lh3.googleusercontent.com/d/11NJWY68SUdiI6BcDmSKpnkMvZ7DVfr6P" data-lightbox="2019"><img src="https://lh3.googleusercontent.com/d/11NJWY68SUdiI6BcDmSKpnkMvZ7DVfr6P"></a>
 <a href="https://lh3.googleusercontent.com/d/1a9tUbDVdYtkb3KUdh0ykYR7DiexFLibt" data-lightbox="2019"><img src="https://lh3.googleusercontent.com/d/1a9tUbDVdYtkb3KUdh0ykYR7DiexFLibt"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) {body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}}</style>
