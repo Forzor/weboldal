@@ -317,4 +317,4 @@
 <a href="https://lh3.googleusercontent.com/d/1dIjvMY4tC3rGjVJXU9EEZicuuMP0N3NA" data-lightbox="2020"><img src="https://lh3.googleusercontent.com/d/1dIjvMY4tC3rGjVJXU9EEZicuuMP0N3NA"></a>
 <a href="https://lh3.googleusercontent.com/d/1BbpqJvoDRXxhAaNBElAxBA4LSnTj25W3" data-lightbox="2020"><img src="https://lh3.googleusercontent.com/d/1BbpqJvoDRXxhAaNBElAxBA4LSnTj25W3"></a>
 <a href="https://lh3.googleusercontent.com/d/13QAGauktHOJgFzUGT2xDnga1zcXsEFkq" data-lightbox="2020"><img src="https://lh3.googleusercontent.com/d/13QAGauktHOJgFzUGT2xDnga1zcXsEFkq"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) {body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}}</style>
