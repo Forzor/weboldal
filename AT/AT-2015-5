@@ -7,4 +7,4 @@
 <a href="https://lh3.googleusercontent.com/d/1neV7RBS7NYnP0MKSWWk6muz31T1m8Lpa" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1neV7RBS7NYnP0MKSWWk6muz31T1m8Lpa"></a>
 <a href="https://lh3.googleusercontent.com/d/15yXpwFmi0-NJzx3ZHAdjtS7RXlEwfw5c" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/15yXpwFmi0-NJzx3ZHAdjtS7RXlEwfw5c"></a>
 <a href="https://lh3.googleusercontent.com/d/1hU4kjT4wZPUTSa6EZ8aheA49rZat5cD1" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1hU4kjT4wZPUTSa6EZ8aheA49rZat5cD1"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) {body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}}</style>
