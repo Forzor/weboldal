@@ -13,4 +13,4 @@
 <a href="https://lh3.googleusercontent.com/d/1oUSDVUx3lv9JomFFoRL7Q5sld3_29Al4" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1oUSDVUx3lv9JomFFoRL7Q5sld3_29Al4"></a>
 <a href="https://lh3.googleusercontent.com/d/1L62EoKpuYePRqRAlzI6srYRF2te8ngkq" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/1L62EoKpuYePRqRAlzI6srYRF2te8ngkq"></a>
 <a href="https://lh3.googleusercontent.com/d/13FeIdHUcYTwpFPNSJBpaeEfwksMwB9gr" data-lightbox="2015"><img src="https://lh3.googleusercontent.com/d/13FeIdHUcYTwpFPNSJBpaeEfwksMwB9gr"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) {body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}}</style>
