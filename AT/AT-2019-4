@@ -131,4 +131,4 @@
 <a href="https://lh3.googleusercontent.com/d/1SdKuuYBq73R7R3g_xp1nf2_4oFm-O8aa" data-lightbox="2019"><img src="https://lh3.googleusercontent.com/d/1SdKuuYBq73R7R3g_xp1nf2_4oFm-O8aa"></a>
 <a href="https://lh3.googleusercontent.com/d/1FcEiQ14M4wo1nZvX_44-Y0i1Twcpmd6v" data-lightbox="2019"><img src="https://lh3.googleusercontent.com/d/1FcEiQ14M4wo1nZvX_44-Y0i1Twcpmd6v"></a>
 <a href="https://lh3.googleusercontent.com/d/1iwPtX5HnM_0EVIc1h0VYJudWyUqbWSDG" data-lightbox="2019"><img src="https://lh3.googleusercontent.com/d/1iwPtX5HnM_0EVIc1h0VYJudWyUqbWSDG"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) {body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}}</style>
