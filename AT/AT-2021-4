@@ -105,4 +105,4 @@
 <a href="https://lh3.googleusercontent.com/d/1m_GMrvQ9Q8VWV1vSiNq30YE3MZ4mvw8c" data-lightbox="2021"><img src="https://lh3.googleusercontent.com/d/1m_GMrvQ9Q8VWV1vSiNq30YE3MZ4mvw8c"></a>
 <a href="https://lh3.googleusercontent.com/d/1iv-AOUXiFiNDs9xiUPHXNLVorsKxNlQ2" data-lightbox="2021"><img src="https://lh3.googleusercontent.com/d/1iv-AOUXiFiNDs9xiUPHXNLVorsKxNlQ2"></a>
 <a href="https://lh3.googleusercontent.com/d/1xOAHsQg4llcVz71BqG4Q4XddKK7wuZT7" data-lightbox="2021"><img src="https://lh3.googleusercontent.com/d/1xOAHsQg4llcVz71BqG4Q4XddKK7wuZT7"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
