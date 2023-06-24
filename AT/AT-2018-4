@@ -272,4 +272,4 @@
 <a href="https://lh3.googleusercontent.com/d/1CWxwFBPkO4LQvl3DS6VmFRQ2Vn1VFuvT" data-lightbox="2018"><img src="https://lh3.googleusercontent.com/d/1CWxwFBPkO4LQvl3DS6VmFRQ2Vn1VFuvT"></a>
 <a href="https://lh3.googleusercontent.com/d/13FUB0F73Xbu_1rK2xwLl2k0tAFBk7Mxx" data-lightbox="2018"><img src="https://lh3.googleusercontent.com/d/13FUB0F73Xbu_1rK2xwLl2k0tAFBk7Mxx"></a>
 <a href="https://lh3.googleusercontent.com/d/15zwvhwa4wkUnrqoCRFxDJnkqwzh9G8Ca" data-lightbox="2018"><img src="https://lh3.googleusercontent.com/d/15zwvhwa4wkUnrqoCRFxDJnkqwzh9G8Ca"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) {body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}}</style>
