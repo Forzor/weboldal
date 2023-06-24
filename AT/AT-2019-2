@@ -255,4 +255,4 @@
 <a href="https://lh3.googleusercontent.com/d/1fYGJxgEmezjL6R3_gWaDc0L28nbilAhs" data-lightbox="2019"><img src="https://lh3.googleusercontent.com/d/1fYGJxgEmezjL6R3_gWaDc0L28nbilAhs"></a>
 <a href="https://lh3.googleusercontent.com/d/1gwltGBeWk48MKL2nvQf2ymLyAGyDtP15" data-lightbox="2019"><img src="https://lh3.googleusercontent.com/d/1gwltGBeWk48MKL2nvQf2ymLyAGyDtP15"></a>
 <a href="https://lh3.googleusercontent.com/d/11iBESRaXqWVGIdZfUo6xhx4NITd13i8T" data-lightbox="2019"><img src="https://lh3.googleusercontent.com/d/11iBESRaXqWVGIdZfUo6xhx4NITd13i8T"></a>
-</div><style>body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}</style>
+</div><style>@media screen and (min-width: 768px) {body {text-align: center;}.gallery img {width: 500px;transition: 1s;padding: 10px;}.gallery img:hover {filter: grayscale(80%);transform: scale(1.1);}}</style>
